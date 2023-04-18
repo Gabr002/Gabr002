@@ -12,8 +12,9 @@
   <a href="https://github.com/eduardocesb">
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=eduardocesb&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocesb&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&layout=compact&langs_count=10"/>
+</div>
   
-  
+ <div style="display: inline_block"><br>
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
