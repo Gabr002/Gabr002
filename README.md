@@ -1,4 +1,4 @@
-### Olá! Eu sou Gabriel Dantas Lopes 👋
+### Hello! I'm Gabriel Dantas Lopes 👋
 
 
 - 🔭 I’m computer science student ...
