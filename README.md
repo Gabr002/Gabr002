@@ -23,7 +23,6 @@ class BackEndSkills implements Skills {
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabr002&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabr002&langs_count=8)
 
 <div>
     <p>🎵 Amante da música 
