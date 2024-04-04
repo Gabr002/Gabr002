@@ -1,7 +1,7 @@
 ﻿### Hello, I'm Gabriel🖐️
 
 ```javascript
-import { SoftwareDeveloper, Skills } from 'Gabr002';
+import { WebDeveloped, Skills } from 'Gabr002';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Gabriel Dantas Lopes';
