@@ -21,7 +21,7 @@ class BackEndSkills implements Skills {
   databases  = ['PostgreSQL', 'MongoDB'];
 }
 ```
-<div style="whith:100%">
+<div style="width:100%">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabr002&show_icons=true&theme=dracula)
 </div>
 
