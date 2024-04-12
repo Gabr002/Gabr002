@@ -12,12 +12,12 @@ class Bio extends SoftwareDeveloper {
 
 class FrontEndSkills implements Skills {
   languages  = ['TypeScript', 'JavaScript', 'C++'];
-  frameworks = ['React.js'];
+  frameworks = ['NextJs', 'ReactJs'];
 }
 
 class BackEndSkills implements Skills {
   languages  = ['Node.js'];
-  frameworks = ['express'];
+  frameworks = ['express', 'mongoose'];
   databases  = ['PostgreSQL', 'MongoDB'];
 }
 ```
