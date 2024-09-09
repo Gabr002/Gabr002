@@ -12,7 +12,7 @@ class Bio extends SoftwareEngineer {
 
 class ProgramationCompetitive implements Skills {
   languages  = ['C++'];
-  learning   = ['Algorithms', 'Data Struct', 'Grafs'];
+  learning   = ['Algorithms', 'Data Struct', 'graphs'];
 }
 
 class FrontEndSkills implements Skills {
