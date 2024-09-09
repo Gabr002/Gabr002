@@ -1,22 +1,27 @@
 ﻿### Hello, I'm Gabriel🖐️
 
 ```javascript
-import { WebDeveloped, Skills } from 'Gabr002';
+import { SoftwareEngineer, Skills } from 'Gabr002';
 
-class Bio extends SoftwareDeveloper {
-  name =        'Gabriel Dantas Lopes';
+class Bio extends SoftwareEngineer {
+  name        = 'Gabriel Dantas Lopes';
   Description = 'ICPC Competitive Programming | Back-End Software Engineer';
-  location =    'Beberibe, CE';
-  studying =    'Bachelor of Computer Science | IFCE Campus Aracati'
+  location    = 'Beberibe, CE';
+  studying    = 'Bachelor of Computer Science | IFCE Campus Aracati'
+}
+
+class ProgramationCompetitive implements Skills {
+  languages  = ['C++'];
+  learning   = ['Algorithms', 'Data Struct', 'Grafs'];
 }
 
 class FrontEndSkills implements Skills {
-  languages  = ['TypeScript', 'JavaScript', 'C++'];
+  languages  = ['TypeScript', 'JavaScript'];
   frameworks = ['NextJs', 'ReactJs'];
 }
 
 class BackEndSkills implements Skills {
-  languages  = ['Node.js'];
+  languages  = ['Node.js', 'C++'];
   frameworks = ['express', 'mongoose'];
   databases  = ['PostgreSQL', 'MongoDB'];
 }
