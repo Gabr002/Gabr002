@@ -5,7 +5,7 @@ import { WebDeveloped, Skills } from 'Gabr002';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Gabriel Dantas Lopes';
-  title    = 'Developed Front-End';
+  Description    = 'ICPC Competitive Programming | Back-End Software Engineer';
   location = 'Beberibe, CE';
   studying = 'Bachelor of Computer Science | IFCE Campus Aracati'
 }
