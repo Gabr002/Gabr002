@@ -11,17 +11,12 @@ class Bio extends SoftwareEngineer {
 }
 
 class ProgramationCompetitive implements Skills {
-  languages  = ['C++'];
+  languages  = ['C++', 'C'];
   learning   = ['Algorithms', 'Data Struct', 'graphs'];
 }
 
-class FrontEndSkills implements Skills {
-  languages  = ['TypeScript', 'JavaScript'];
-  frameworks = ['NextJs', 'ReactJs'];
-}
-
 class BackEndSkills implements Skills {
-  languages  = ['Node.js', 'C++'];
+  languages  = ['Node.js'];
   frameworks = ['express', 'mongoose'];
   databases  = ['PostgreSQL', 'MongoDB'];
 }
