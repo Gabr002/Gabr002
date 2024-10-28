@@ -7,7 +7,7 @@ class Bio extends SoftwareEngineer {
   name        = 'Gabriel Dantas Lopes';
   Description = 'ICPC Competitive Programming | Back-End Software Engineer';
   location    = 'Beberibe, CE';
-  studying    = 'Bachelor of Computer Science | IFCE Campus Aracati'
+  studying    = 'Bachelor of Computer Science'
 }
 
 class ProgramationCompetitive implements Skills {
