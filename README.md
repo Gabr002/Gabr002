@@ -16,9 +16,7 @@ class ProgramationCompetitive implements Skills {
 }
 
 class BackEndSkills implements Skills {
-  languages  = ['Node.js'];
-  frameworks = ['express', 'mongoose'];
-  databases  = ['PostgreSQL', 'MongoDB'];
+  // In Build...
 }
 ```
 
