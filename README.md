@@ -1,7 +1,7 @@
 ﻿### Hello, I'm Dantas🖐️
 
 ```javascript
-import { SoftwareEngineer, Skills } from 'Gabr002';
+import { SoftwareEngineer, Skills, SoftwareEngineerFaang } from 'Gabr002';
 
 class Bio extends SoftwareEngineer {
   name        = 'Gabriel Dantas Lopes';
@@ -15,7 +15,7 @@ class ProgramationCompetitive implements Skills {
   learning   = ['Algorithms', 'Data Struct', 'graphs'];
 }
 
-class BackEndSkills implements Skills {
+class SoftwareEngineerFaang implements Skills {
   // In Build...
 }
 ```
