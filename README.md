@@ -15,7 +15,7 @@ class ProgramationCompetitive implements Skills {
   learning   = ['Algorithms', 'Data Struct', 'graphs'];
 }
 
-class FrontendEngineer implements Skills {
+class Frontend implements Skills {
   languages  = ['HTML', 'CSS', 'JavaScript', 'TypeScript'];
   frameworks = ['React.js'];
   concepts   = ['Componentization', 'State Management', 'Responsive Design'];
@@ -27,6 +27,7 @@ class SoftwareEngineerFaang implements Skills {
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdantas/)
+
 
 
 
