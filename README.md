@@ -1,32 +1,73 @@
-﻿### Hello, I'm Dantas🖐️
+# 👋 Hi, I'm Gabriel Dantas Lopes
 
-```javascript
-import { SoftwareEngineer, Skills } from 'Gabr002';
+```ts
+import { SoftwareEngineer, Skills, Methodologies } from 'Gabr002';
 
 class Bio extends SoftwareEngineer {
   name        = 'Gabriel Dantas Lopes';
-  Description = 'Software Engineer';
-  location    = 'Beberibe, CE';
-  studying    = 'Bachelor of Computer Science'
+  role        = 'Software Engineer in Progress';
+  location    = 'Brazil';
+  studying    = 'Bachelor of Computer Science';
+  focus       = 'FAANG Preparation';
 }
 
-class ProgramationCompetitive implements Skills {
-  languages  = ['C++', 'C'];
-  learning   = ['Algorithms', 'Data Struct', 'graphs'];
+class CompetitiveProgramming implements Skills {
+  languages = ['C++', 'C'];
+  focus    = [
+    'Algorithms',
+    'Data Structures',
+    'Graphs',
+    'Time & Space Complexity'
+  ];
+  practice = [
+    'Codeforces',
+    'Beecrowd',
+    'LeetCode'
+  ];
 }
 
 class Frontend implements Skills {
   languages  = ['HTML', 'CSS', 'JavaScript', 'TypeScript'];
   frameworks = ['React.js'];
-  concepts   = ['Componentization', 'State Management', 'Responsive Design'];
+  concepts   = [
+    'Componentization',
+    'State Management',
+    'Responsive Design'
+  ];
 }
 
-class SoftwareEngineerFaang implements Skills {
-  // In Build...
+class FaangRoadmap implements Skills {
+  inProgress = [
+    'Backend Development',
+    'REST API Design',
+    'Database Modeling',
+    'System Design (Foundations)',
+    'Scalable Systems (Basics)',
+    'Advanced Data Structures',
+    'Problem Solving (FAANG Level)'
+  ];
+
+  nextSteps = [
+    'Microservices Fundamentals',
+    'Caching Strategies',
+    'Load Balancing',
+    'Distributed Systems (Intro)'
+  ];
+}
+
+class MyMethodologies implements Methodologies {
+  applying = [
+    'Clean Architecture',
+    'SOLID',
+    'DDD (Tactical)',
+    'TDD (Unit Tests)',
+    'Agile / Scrum'
+  ];
 }
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danntas/)
+
 
 
 
