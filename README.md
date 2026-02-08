@@ -56,7 +56,7 @@ class FaangRoadmap implements Skills {
 }
 
 class MyMethodologies implements Methodologies {
-  applying = [
+  inProgress = [
     'Clean Architecture',
     'SOLID',
     'DDD (Tactical)',
@@ -67,6 +67,7 @@ class MyMethodologies implements Methodologies {
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danntas/)
+
 
 
 
