@@ -55,6 +55,18 @@ class FaangRoadmap implements Skills {
   ];
 }
 
+class Backend implements Skills {
+  languages  = ['Node.js', 'TypeScript'];
+  databases  = ['PostgreSQL', 'MongoDB'];
+  concepts   = [
+    'Database Modeling',
+    'Indexing',
+    'Query Optimization',
+    'Transactions',
+    'REST API Design'
+  ];
+}
+
 class MyMethodologies implements Methodologies {
   inProgress = [
     'Clean Architecture',
@@ -67,6 +79,7 @@ class MyMethodologies implements Methodologies {
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danntas/)
+
 
 
 
