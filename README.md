@@ -1,4 +1,14 @@
-# 👋 Hi, I'm Dantas
+<h1 align="center">Gabriel Dantas Lopes</h1>
+
+<p align="center">
+  Software Engineer focused on FAANG-level skills
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/danntas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ```ts
 import { SoftwareEngineer, Skills, Roadmap } from 'Gabr002';
@@ -31,9 +41,6 @@ class StudyRoadmap implements Roadmap {
   ];
 }
 ```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danntas/)
-
 
 
 
